@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "899973148087",
+    "project_id": "flash-chat-70520",
+    "storage_bucket": "flash-chat-70520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899973148087:android:97b7a729e46fd35f214c32",
+        "android_client_info": {
+          "package_name": "co.mahar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899973148087-pcdr1qg8bba7v6mudrnjj09911kdqonr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHdaKrF4zhJf7uIIrz2r1SdJ005pY4-Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899973148087-pcdr1qg8bba7v6mudrnjj09911kdqonr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
